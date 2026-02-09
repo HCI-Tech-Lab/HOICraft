@@ -1,6 +1,6 @@
 # HOICraft
 
-This is the repository for the [HOICraft website](https://hci-tech-lab.github.io/HOICraft/).
+This is the repository for the [HOICraft website](https://hoicraft.hcitech.org/).
 
 If you find HOICraft useful for your work, please cite:
 
