@@ -5,7 +5,15 @@ This is the repository for the [HOICraft website](https://hoicraft.hcitech.org/)
 If you find HOICraft useful for your work, please cite:
 
 ```
-
+@misc{lee2026hoicraftinsituvlmbasedauthoring,
+      title={HOICraft: In-Situ VLM-based Authoring Tool for Part-Level Hand-Object Interaction Design in VR}, 
+      author={Dohui Lee and Qi Sun and Sang Ho Yoon},
+      year={2026},
+      eprint={2602.08219},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2602.08219}, 
+}
 
 ```
 
